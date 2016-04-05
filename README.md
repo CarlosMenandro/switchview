@@ -1,2 +1,2 @@
 # switchview
-Software para visualização identificação de equipamentos ligados em switches de rede.
+Software para visualização e identificação de equipamentos ligados em switches de rede.
